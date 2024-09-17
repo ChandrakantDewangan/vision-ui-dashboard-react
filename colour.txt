@@ -1,14 +1,102 @@
-Here are 10 unique colors with their hex codes displayed in the background (displaying all 100 here isn't possible in this format, so starting with 10):
+Here are 100 hex color codes, excluding red, black, and white:
 
-<span style="background-color:#00FF7F; color:white; padding:5px;">#00FF7F</span>  
-<span style="background-color:#7FFFD4; color:black; padding:5px;">#7FFFD4</span>  
-<span style="background-color:#4682B4; color:white; padding:5px;">#4682B4</span>  
-<span style="background-color:#FFD700; color:black; padding:5px;">#FFD700</span>  
-<span style="background-color:#00CED1; color:white; padding:5px;">#00CED1</span>  
-<span style="background-color:#2E8B57; color:white; padding:5px;">#2E8B57</span>  
-<span style="background-color:#8A2BE2; color:white; padding:5px;">#8A2BE2</span>  
-<span style="background-color:#32CD32; color:black; padding:5px;">#32CD32</span>  
-<span style="background-color:#6A5ACD; color:white; padding:5px;">#6A5ACD</span>  
-<span style="background-color:#7FFF00; color:black; padding:5px;">#7FFF00</span>  
-
-If you want me to list more colors in the same way, let me know!
+1. #00FF7F  
+2. #7FFFD4  
+3. #4682B4  
+4. #FFD700  
+5. #00CED1  
+6. #2E8B57  
+7. #8A2BE2  
+8. #32CD32  
+9. #6A5ACD  
+10. #7FFF00  
+11. #FF8C00  
+12. #5F9EA0  
+13. #48D1CC  
+14. #B8860B  
+15. #00BFFF  
+16. #DAA520  
+17. #8FBC8F  
+18. #556B2F  
+19. #FF69B4  
+20. #9370DB  
+21. #20B2AA  
+22. #4169E1  
+23. #FF1493  
+24. #1E90FF  
+25. #8B4513  
+26. #40E0D0  
+27. #66CDAA  
+28. #4682B4  
+29. #6B8E23  
+30. #FF6347  
+31. #87CEFA  
+32. #3CB371  
+33. #708090  
+34. #778899  
+35. #BDB76B  
+36. #6495ED  
+37. #DC143C  
+38. #7B68EE  
+39. #8A2BE2  
+40. #BA55D3  
+41. #8B008B  
+42. #00FA9A  
+43. #FF4500  
+44. #C71585  
+45. #7CFC00  
+46. #191970  
+47. #00FF00  
+48. #8B0000  
+49. #ADFF2F  
+50. #483D8B  
+51. #2E8B57  
+52. #4682B4  
+53. #32CD32  
+54. #9400D3  
+55. #20B2AA  
+56. #CD5C5C  
+57. #FF4500  
+58. #00FA9A  
+59. #9932CC  
+60. #7B68EE  
+61. #FF7F50  
+62. #FFD700  
+63. #00CED1  
+64. #5F9EA0  
+65. #DC143C  
+66. #8A2BE2  
+67. #BA55D3  
+68. #3CB371  
+69. #4682B4  
+70. #40E0D0  
+71. #DA70D6  
+72. #9932CC  
+73. #32CD32  
+74. #FF6347  
+75. #7CFC00  
+76. #B22222  
+77. #8B4513  
+78. #556B2F  
+79. #FF1493  
+80. #6A5ACD  
+81. #87CEFA  
+82. #9370DB  
+83. #20B2AA  
+84. #7FFF00  
+85. #DC143C  
+86. #66CDAA  
+87. #6495ED  
+88. #FFD700  
+89. #00FF00  
+90. #FF69B4  
+91. #FF7F50  
+92. #8FBC8F  
+93. #BA55D3  
+94. #32CD32  
+95. #20B2AA  
+96. #FFD700  
+97. #7B68EE  
+98. #00FF7F  
+99. #ADFF2F  
+100. #4682B4  
